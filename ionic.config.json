@@ -1,0 +1,8 @@
+{
+  "name": "RamSatt",
+  "app_id": "66f5217a",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
